@@ -4,7 +4,8 @@
 [robloxrpc, Roblox Rich Presence for Discord.](https://github.com/blackopsoperative/robloxrpc)
 <br>[dissonance, Boilerplate Discord bot code with cog support.](https://github.com/blackopsoperative/dissonance)
 <br>[r34d, Rule34.xxx image and video downloader. Very buggy.](https://github.com/blackopsoperative/r34d)
-<br>NEW! [dfdx, MrDeepFakes video downloader userscript.](https://github.com/blackopsoperative/dfdx)
+<br>**NEW!** [dfdx, MrDeepFakes video downloader userscript.](https://github.com/blackopsoperative/dfdx)
+<br>**NEW!** [tvsorter, Sorts mp4 files for usage in Media servers like Plex and Jellyfin](https://github.com/blackopsoperative/tvsorter)
 
 OLD AND PROBABLY FORGOTTEN.
 <br>[xell-py, Python rewrite of @xenia-project's rewrite in Rust. Will probably not get off the ground anytime soon.](https://github.com/blackopsoperative/xell-py)
