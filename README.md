@@ -3,7 +3,7 @@
 #### Projects with actual merit to check out;
 [robloxrpc, Roblox Rich Presence for Discord.](https://github.com/blackopsoperative/robloxrpc)
 <br>[dissonance, Boilerplate Discord bot code with cog support.](https://github.com/blackopsoperative/dissonance)
-<br>[r34d, Rule34.xxx image and video downloader. Very buggy.](https://github.com/blackopsoperative/r34d)
+<br>[r34dx, Rule34.xxx image and video downloader. Very buggy.](https://github.com/blackopsoperative/r34dx)
 <br>**NEW!** [dfdx, MrDeepFakes video downloader userscript.](https://github.com/blackopsoperative/dfdx)
 <br>**NEW!** [tvsorter, Sorts mp4 files for usage in Media servers like Plex and Jellyfin](https://github.com/blackopsoperative/tvsorter)
 
