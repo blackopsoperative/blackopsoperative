@@ -6,6 +6,7 @@
 <br>[r34dx, Rule34.xxx image and video downloader. Very buggy.](https://github.com/blackopsoperative/r34dx)
 <br>**NEW!** [dfdx, MrDeepFakes video downloader userscript.](https://github.com/blackopsoperative/dfdx)
 <br>**NEW!** [tvsorter, Sorts mp4 files for usage in Media servers like Plex and Jellyfin](https://github.com/blackopsoperative/tvsorter)
+<br>**NEW!** [cfdx, CFakes.com downloader python script.](https://github.com/blackopsoperative/cfdx)
 
 OLD AND PROBABLY FORGOTTEN.
 <br>[xell-py, Python rewrite of @xenia-project's rewrite in Rust. Will probably not get off the ground anytime soon.](https://github.com/blackopsoperative/xell-py)
